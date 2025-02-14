@@ -1,3 +1,4 @@
 src/__pycache__/
 src/spikingjelly/__pycache__/
 src/spikingjelly/clock_driven/__pycache__/
+*.pth
